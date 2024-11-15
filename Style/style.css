@@ -1,0 +1,38 @@
+body{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.name-highlight{
+    color: #2785dd;
+}
+h1{
+    font-family: "Love Ya Like A Sister", cursive;
+  font-weight: 500;
+  font-style: normal;
+
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    justify-content: center;
+    border-radius: 5px;
+
+}
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+li a:hover {
+    background-color: #17a76b;
+}
+h1{
+    font-size: 50px;
+}
